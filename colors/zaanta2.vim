@@ -80,7 +80,7 @@ hi Type                 guifg=#FFF980 gui=NONE
 
 hi Special              guifg=#ff6347
     " Underline Character
-    hi SpecialChar      gui=underline guifg=#7fffd4
+    hi SpecialChar      gui=NONE guifg=#7fffd4
     hi Tag              guifg=#ff6347
     "Statement
     hi Delimiter        guifg=#D8D8D8
